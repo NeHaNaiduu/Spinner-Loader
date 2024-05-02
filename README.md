@@ -1,4 +1,4 @@
-**Spinner Using CSS**
+# Spinner Using CSS
 
 **Description:**
 
